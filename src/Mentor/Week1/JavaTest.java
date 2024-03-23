@@ -1,7 +1,7 @@
 package Mentor.Week1;
 
-public class Check {
+public class JavaTest {
     public static void main(String[] args) {
-        System.out.println("This main class");
+        System.out.println("This is main page.");
     }
 }
