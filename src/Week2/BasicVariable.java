@@ -18,6 +18,8 @@ public class BasicVariable {
         float floatValue = 30.333F;
         double doubleValue = 99.999;
 
+
+        // byte 크기
         System.out.println("charValue : " + charValue);
         System.out.println(Character.SIZE);
 
