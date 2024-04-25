@@ -1,6 +1,6 @@
 package Week3.Conditon;
 
-public class elseIf {
+public class ElseIf {
     public static void main(String[] args) {
 
         int example = 15;

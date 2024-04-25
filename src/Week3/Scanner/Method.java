@@ -18,7 +18,7 @@ public class Method {
         double f = sc.nextDouble();   // double 입력
 
         //논리타입
-        boolean g = sc.nextBoolean();  // boolean 입력
+        boolean g = sc.nextBoolean();  // boolean 입력 true false
 
         //문자열타입
         String h = sc.next();       // String 형 입력 (토큰을 기준으로 한 단어를 읽음)

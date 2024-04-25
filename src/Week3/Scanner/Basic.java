@@ -3,6 +3,8 @@ package Week3.Scanner;
 import java.util.Scanner;
 
 // 기본 형태
+// main
+// sout
 public class Basic {
     public static void main(String[] args) {
 
