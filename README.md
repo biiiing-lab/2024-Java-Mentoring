@@ -16,7 +16,7 @@
 | 김철진      |https://github.com/cheoljin0324/2024-JAVA-Mentoring-Study |
 | 이은학      |https://github.com/Eunhak0401/2024-Java-Mentoring-Study |
 | 조현준      |https://github.com/hyunjun12345/2024-Java-Mentoring-Study |
-| 이형민 | . |
+| 이형민 | https://github.com/leebromin |
 
 ## 🌳 일정
 | 날짜 | 회차  | 내용                 |
